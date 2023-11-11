@@ -1,0 +1,32 @@
+.abouts {
+  background-color: rgb(203, 194, 247); /* Green color in hexadecimal */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../aboutus.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%; /* Cover the full width of the page */
+  height: 100vh; /* Cover the full height of the viewport */
+}
+.about-container {
+    background-color: #bab7da;
+    color: #5950bb;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #000000;
+  }
+  
+  p {
+    color: black;
+  }
+ 
+.about-container{
+    margin-top: 100px;
+}

@@ -1,0 +1,33 @@
+.blog-container {
+  margin-top: 73px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  background-image: url('../blog.jpeg');
+  background-size: cover; /* Adjust the background size as needed */
+  background-position: center; 
+}
+
+.blog {
+  padding: 10px 10px;
+  border: 1px solid rgb(160, 160, 211);
+  flex-direction: column;
+  align-items: center;
+  text-align: center; /* Center text within the box */
+}
+
+/* Set a fixed size for all image containers */
+.image-container {
+  width: 350px; /* Set the width to match the width of a square */
+  height: 350px; /* Set the height to match the height of a square */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Make sure all images fill their containers */
+.image-container img {
+  max-width: 100%;
+  max-height: 100%;
+}

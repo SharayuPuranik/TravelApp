@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2077cd0f.css",
+    "main.js": "/static/js/main.f5b4be68.js",
+    "static/js/787.1968e39d.chunk.js": "/static/js/787.1968e39d.chunk.js",
+    "static/media/and.jpeg": "/static/media/and.3a2dbc120c132dc4fde5.jpeg",
+    "static/media/travel.jpeg": "/static/media/travel.c120ba922a607d11bdee.jpeg",
+    "static/media/assam.jpg": "/static/media/assam.de0a26b0988f6ad6454b.jpg",
+    "static/media/logo.png": "/static/media/logo.b93da1185c06a46f7647.png",
+    "static/media/aboutus.webp": "/static/media/aboutus.e9f45956bf350b99b10c.webp",
+    "static/media/har.jpg": "/static/media/har.e32b75b23783c80bbb75.jpg",
+    "static/media/plan.webp": "/static/media/plan.29d20dadc2a5fc283936.webp",
+    "static/media/blog.jpeg": "/static/media/blog.5e1d623512037f5ffdf9.jpeg",
+    "static/media/aru.jpeg": "/static/media/aru.8d67d149d8265c08b116.jpeg",
+    "static/media/plan.avif": "/static/media/plan.dfa9622460d2114d5066.avif",
+    "index.html": "/index.html",
+    "main.2077cd0f.css.map": "/static/css/main.2077cd0f.css.map",
+    "main.f5b4be68.js.map": "/static/js/main.f5b4be68.js.map",
+    "787.1968e39d.chunk.js.map": "/static/js/787.1968e39d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2077cd0f.css",
+    "static/js/main.f5b4be68.js"
+  ]
+}

@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.banner {
+  background-color: #333; /* You can set your banner color here */
+  flex: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-size: cover; /* Cover the entire banner */
+  background-position: center; /* Center the background image */
+  background-image: var(--banner-background-image);
+  
+}
+
+
+.sections {
+  display: flex;
+  flex: 1;
+}
+
+.section {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.authenticator-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
